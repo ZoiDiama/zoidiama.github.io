@@ -2682,7 +2682,7 @@ input, select, textarea {
 				}
 
 				.tiles article > a:hover {
-					color: #0B1C48 !important;
+					color: #ffffff !important;
 				}
 
 				.tiles article > a h2 {
@@ -3212,7 +3212,7 @@ input, select, textarea {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: #E9E9E9;
+				color: #2E3B51;
 			}
 
 				#footer > .inner .copyright a {

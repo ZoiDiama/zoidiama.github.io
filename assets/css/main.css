@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #E9E9E9;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -145,7 +145,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
-		color: #585858;
+		color: #2E3B51;
 		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
 	}
 
@@ -1861,7 +1861,7 @@ input, select, textarea {
 			}
 
 			.icon.style2:active {
-				background-color: rgba(242, 132, 158, 0.1);
+				background-color: #ffffff;
 			}
 
 /* List */
@@ -2225,7 +2225,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #585858;
+			color: #ffffff;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2671,7 +2671,7 @@ input, select, textarea {
 				padding: 1em;
 				border-radius: 4px;
 				border-bottom: 0;
-				color: #ffffff;
+				color: #CBBAA8;
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
@@ -2682,7 +2682,7 @@ input, select, textarea {
 				}
 
 				.tiles article > a:hover {
-					color: #ffffff !important;
+					color: #0B1C48 !important;
 				}
 
 				.tiles article > a h2 {
@@ -2706,11 +2706,11 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #338EC9;
+				background-color: #2E3B51;
 			}
 
 			.tiles article.style2 > .image::after {
-				background-color: #7ecaf6;
+				background-color: #0B1C48;
 			}
 
 			.tiles article.style3 > .image:before {
@@ -3212,7 +3212,7 @@ input, select, textarea {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: #E9E9E9;
 			}
 
 				#footer > .inner .copyright a {
